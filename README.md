@@ -6,7 +6,7 @@ Aplicación de escritorio en Python + Tkinter con base de datos MySQL para gesti
 
 Aprendizaje Maquina:
 
-| P01 | Regresión Lineal Simple | Caracterización de motor DC (Voltaje vs RPM), cálculo de pendiente e intersección |
+| P01 | Regresión Lineal Simple | Caracterización de motor DC (Voltaje vs RPM), cálculo de pendiente e intersección |       
 | P02 | Regresión Lineal Múltiple | Ecuaciones normales y gradiente descendente; implementación manual y con Scikit-learn |
 | P03 | Regresión Logística | Cálculo manual de probabilidad + sigmoide y frontera de decisión |
 | P04 | Métricas de Clasificación | Accuracy, Recall, Precision, F1, matriz de confusión y curva ROC-AUC |
