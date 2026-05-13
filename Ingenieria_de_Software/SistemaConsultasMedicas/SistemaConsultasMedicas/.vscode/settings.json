@@ -1,0 +1,22 @@
+{
+    "python.defaultInterpreterPath": "python",
+    "python.analysis.extraPaths": ["."],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true,
+    "python.terminal.activateEnvironment": true,
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true
+    },
+    "[python]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": false,
+        "editor.rulers": [88]
+    },
+    "[sql]": {
+        "editor.tabSize": 2
+    }
+}
